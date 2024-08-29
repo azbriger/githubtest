@@ -1,2 +1,3 @@
-# githubtest
-First repository for practice
+# Graph for URAP application
+
+The "nasa_exoplanet_archive_tutorial" file is code I initially got form the Intro to Astronomy 2023 tutorial series, pulling data from the "data" file. The basic structure was provided by the tutorial and I filled in specifics in order to create some of the graphs. I have provided this outline to create clarity regarding which work was directly mine and which I created using the tutorial in order to clarify my level of experience and knowledge. The graph at the bottom, which creates a graph comparing temperature and radius of stars which were orbited by exoplanets discovered by Kepler while also clarifying year of the exoplanet's discovery and method of discovery, was fully created by me. While I took inspiration from previous code in the file, I decided what to create a graph of and researched and wrote the code to actualize it. 
